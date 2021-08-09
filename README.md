@@ -1,8 +1,12 @@
 # KVS-Admission-form
 
-**Prerequisite for the Project** 
+If you are using the pre-made version no need to go with this file as there is already a user manual in it.
 
-1) MYSQL must be installed on the system.
+**Prerequisite for the Project / Application** 
+
+1) Windows 7/8/10
+2) MYSQL must be installed on the system.
+3) Atleat 512 MB RAM.
 
 **Dependancy.py** 
 
@@ -18,3 +22,5 @@
 
 **kvs.ico**
 1) Its has no use other than to be the Icon of the the application
+
+
